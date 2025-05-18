@@ -7,7 +7,7 @@ return {
     {
         Identificador = "Matheus",
         Hwid = "C354810B-A7AB-44AA-9AFF-169183A59230",
-        Key = "SUPA-oEfn08snfF99CNsYFsS"
+        Key = "SUPA-93215928125215251"
     },
     {
         Identificador = "Demon",
