@@ -6,7 +6,7 @@ return {
     },
     {
         Identificador = "Matheus",
-        Hwid = "C354810B-A7AB-44A-9AFF-169183A59230",
+        Hwid = "C354810B-A7AB-44AA-9AFF-169183A59230",
         Key = "SUPA-oEfn08snfF99CNsYFsS"
     },
     {
