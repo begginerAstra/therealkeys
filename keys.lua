@@ -19,4 +19,10 @@ return {
         Hwid = "CB9A94F5-E30C-4358-89AB-43D2A99689DA",
         Key = "SUPA-fm0SncS8kfasnCSCSA8wdfsa"
     }
+},
+{
+        Identificador = "gsroulegacy",
+        Hwid = "B1A9C92B-C5D8-4E21-A65D-73B875749CB6",
+        Key = "SUPA-ms9Nd0sFe2Scmgs1a"
+    }
 }
