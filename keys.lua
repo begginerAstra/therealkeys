@@ -18,10 +18,5 @@ return {
         Identificador = "Alt",
         Hwid = "CB9A94F5-E30C-4358-89AB-43D2A99689DA",
         Key = "SUPA-fm0SncS8kfasnCSCSA8wdfsa"
-    },
-    {
-        Identificador = "Alt",
-        Hwid = "CB9A94F5-E30C-4358-89AB-43D2A99689DA",
-        Key = "SUPA-fm0SncS8kfasnCSCSA8wdfsa"
     }
 }
