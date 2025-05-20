@@ -11,7 +11,7 @@ return {
     },
     {
         Identificador = "Demon",
-        Hwid = "BF974E3D-8DB6-48F6-90B2-7EF5FFA09639",
+        Hwid = "D3C7C611-8639-4CBC-BFFD-224489160D03",
         Key = "SUPA-F0s9MCns952398NSlsafç9NSm"
     },
     {
