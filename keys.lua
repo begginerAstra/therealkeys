@@ -20,8 +20,8 @@ return {
         Key = "SUPA-fm0SncS8kfasnCSCSA8wdfsa"
     },
     {
-        Identificador = "gsroulegacy",
-        Hwid = "B1A9C92B-C5D8-4E21-A65D-73B875749CB6",
-        Key = "SUPA-XN29KSMF8N1W-LKA9NSDF81MS-SDMN293MD"
+        Identificador = "Vacant",
+        Hwid = "Vacant",
+        Key = "Vacant"
     }
 }
