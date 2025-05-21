@@ -2,7 +2,7 @@ return {
     {
         Identificador = "Astra",
         Hwid = "0F2D614B-302E-44D9-9531-F851E793683B",
-        Key = "SUPA-A7X92N3KD"
+        Key = "SUPA-AXkfsa73sxS"
     },
     {
         Identificador = "Matheus",
