@@ -25,9 +25,9 @@ return {
         Key = "SUPA-FS0mNS8524sfnS01423sC25412"
     },
     {
-        Identificador = "(vacant)",
-        Hwid = "(vacant)",
-        Key = "(vacant)"
+        Identificador = "gsrou (Perma key)",
+        Hwid = "B1A9C92B-C5D8-4E21-A65D-73B875749CB6",
+        Key = "SUPA-942mFso0sncWS1s42s"
     },
     {
         Identificador = "(vacant)",
