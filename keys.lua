@@ -2,7 +2,7 @@ return {
     {
         Identificador = "Astra",
         Hwid = "B05F3FA8-D9F4-46CB-A1A6-C4563990DEE7",
-        Key = "KeyDoAdmkkkj"
+        Key = "KeyDoAdm"
     },
     {
         Identificador = "Matheus",
