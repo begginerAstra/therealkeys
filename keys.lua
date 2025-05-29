@@ -2,7 +2,7 @@ return {
     {
         Identificador = "Astra",
         Hwid = "963BBD52-77C9-4BC3-8196-4125C28DB129",
-        Key = ":3"
+        Key = ":)"
     },
     {
         Identificador = "Matheus",
