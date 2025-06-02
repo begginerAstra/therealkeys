@@ -21,7 +21,7 @@ return {
     },
     {
         Identificador = "Kaizel",
-        Hwid = "80877A50-EA2C-4A51-AA83-ABEEAE4CAA7B",
+        Hwid = "",
         Key = "SUPA-FS0mNS8524sfnS01423sC25412"
     },
     {
