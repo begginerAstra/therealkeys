@@ -5,8 +5,8 @@ return {
         Key = ":)"
     },
     {
-        Identificador = "Matheus",
-        Hwid = "C354810B-A7AB-44AA-9AFF-169183A5923",
+        Identificador = "Matheus (offline)",
+        Hwid = "offC354810B-A7AB-44AA-9AFF-169183A59230",
         Key = "SUPA-93215928125215251"
     },
     {
