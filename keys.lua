@@ -16,7 +16,7 @@ return {
     },
     {
         Identificador = "Alt",
-        Hwid = "CB9A94F5-E30C-4358-89AB-43D2A99689DA",
+        Hwid = "6698AC15-1C75-43FC-A637-0345B7DA8572",
         Key = "SUPA-fm0SncS8kfasnCSCSA8wdfsa"
     },
     {
