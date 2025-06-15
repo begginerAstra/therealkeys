@@ -2,7 +2,7 @@ return {
     {
         Identificador = "Astra",
         Hwid = "FBF70412-A7C7-4A93-9FB9-CB6E2913D167",
-        Key = "kkj"
+        Key = "Comi O cuzinho do pingo"
     },
     {
         Identificador = "Matheus (offline)",
