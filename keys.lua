@@ -7,6 +7,14 @@
             "used": false,
             "used_by": null,
             "used_at": null
+        },
+        {
+            "key": "SUPA-UO62SKBBU6WJDKQ0TL945O5ZDOVYE5",
+            "created_at": "2025-06-15 15:19:26",
+            "expires_at": "2025-06-16 15:19:26",
+            "used": false,
+            "used_by": null,
+            "used_at": null
         }
     ],
     "premium_users": [],
