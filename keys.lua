@@ -15,6 +15,14 @@
             "used": false,
             "used_by": null,
             "used_at": null
+        },
+        {
+            "key": "SUPA-3LKZJJDYNLDA5ZEWEC1BC5PZW8D78I",
+            "created_at": "2025-06-15 15:23:53",
+            "expires_at": "2025-06-17 15:23:53",
+            "used": false,
+            "used_by": null,
+            "used_at": null
         }
     ],
     "premium_users": [],
@@ -23,19 +31,25 @@
             "action": "CHAVE_GERADA",
             "user": "244hzkj",
             "timestamp": "2025-06-15 15:11:37",
-            "details": "Chave: SUPA-BPEHGTC5BHC4I6QDF4E37V2N1GN5QL, Duração: 30 dias"
+            "details": "Chave: SUPA-BPEHGTC5BHC4I6QDF4E37V2N1GN5QL, Dura\u00e7\u00e3o: 30 dias"
         },
         {
             "action": "SINCRONIZADO_GITHUB",
             "user": "244hzkj",
             "timestamp": "2025-06-15 15:19:11",
-            "details": "Sincronização manual"
+            "details": "Sincroniza\u00e7\u00e3o manual"
         },
         {
             "action": "CHAVE_GERADA",
             "user": "244hzkj",
             "timestamp": "2025-06-15 15:19:28",
-            "details": "Chave: SUPA-UO62SKBBU6WJDKQ0TL945O5ZDOVYE5, Duração: 1 dias"
+            "details": "Chave: SUPA-UO62SKBBU6WJDKQ0TL945O5ZDOVYE5, Dura\u00e7\u00e3o: 1 dias"
+        },
+        {
+            "action": "CHAVE_GERADA",
+            "user": "244hzkj",
+            "timestamp": "2025-06-15 15:23:55",
+            "details": "Chave: SUPA-3LKZJJDYNLDA5ZEWEC1BC5PZW8D78I, Dura\u00e7\u00e3o: 2 dias"
         }
     ]
 }
