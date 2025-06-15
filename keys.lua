@@ -64,6 +64,15 @@
             "used_by": null,
             "used_at": null,
             "hwid": null
+        },
+        {
+            "key": "SUPA-BYEH8HZTGHMLEOBXCCXCK5CEWHSHIW",
+            "created_at": "2025-06-15 18:43:35",
+            "expires_at": "2025-06-16 18:43:35",
+            "used": false,
+            "used_by": null,
+            "used_at": null,
+            "hwid": null
         }
     ],
     "premium_users": [],
