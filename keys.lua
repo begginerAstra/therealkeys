@@ -31,6 +31,14 @@
             "used": false,
             "used_by": null,
             "used_at": null
+        },
+        {
+            "key": "SUPA-D71IUFBLG0TGNX823UE3XU3V7QLMXF",
+            "created_at": "2025-06-15 18:12:24",
+            "expires_at": "2025-06-17 18:12:24",
+            "used": false,
+            "used_by": null,
+            "used_at": null
         }
     ],
     "premium_users": [],
@@ -64,6 +72,12 @@
             "user": "244hzkj",
             "timestamp": "2025-06-15 16:50:45",
             "details": "Chave: SUPA-ZG9V3IENQ0J36Q56MHJMTGZABOUUGJ, Dura\u00e7\u00e3o: 2 dias"
+        },
+        {
+            "action": "CHAVE_GERADA",
+            "user": "244hzkj",
+            "timestamp": "2025-06-15 18:12:24",
+            "details": "Chave: SUPA-D71IUFBLG0TGNX823UE3XU3V7QLMXF, Dura\u00e7\u00e3o: 2 dias"
         }
     ]
 }
