@@ -39,6 +39,14 @@
             "used": false,
             "used_by": null,
             "used_at": null
+        },
+        {
+            "key": "SUPA-GP4P1GZ5OE66WJ2RZ98CTZGCEZ94AC",
+            "created_at": "2025-06-15 18:16:54",
+            "expires_at": "2025-06-17 18:16:54",
+            "used": false,
+            "used_by": null,
+            "used_at": null
         }
     ],
     "premium_users": [],
