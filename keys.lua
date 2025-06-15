@@ -12,9 +12,10 @@
             "key": "SUPA-UO62SKBBU6WJDKQ0TL945O5ZDOVYE5",
             "created_at": "2025-06-15 15:19:26",
             "expires_at": "2025-06-16 15:19:26",
-            "used": false,
-            "used_by": null,
-            "used_at": null
+            "used": true,
+            "used_by": "244hzkj",
+            "used_at": "2025-06-15 18:53:12",
+            "hwid": "F0035032532-12521512512-125152BS"
         },
         {
             "key": "SUPA-3LKZJJDYNLDA5ZEWEC1BC5PZW8D78I",
@@ -75,7 +76,16 @@
             "hwid": null
         }
     ],
-    "premium_users": [],
+    "premium_users": [
+        {
+            "user_id": 1269516169673576470,
+            "username": "244hzkj",
+            "activated_at": "2025-06-15 18:53:12",
+            "expires_at": "2025-06-16 15:19:26",
+            "key_used": "SUPA-UO62SKBBU6WJDKQ0TL945O5ZDOVYE5",
+            "hwid": "F0035032532-12521512512-125152BS"
+        }
+    ],
     "logs": [
         {
             "action": "CHAVE_GERADA",
