@@ -92,6 +92,12 @@
             "user": "244hzkj",
             "timestamp": "2025-06-15 18:16:21",
             "details": "Sincroniza\u00e7\u00e3o manual"
+        },
+        {
+            "action": "CHAVE_GERADA",
+            "user": "244hzkj",
+            "timestamp": "2025-06-15 18:16:56",
+            "details": "Chave: SUPA-GP4P1GZ5OE66WJ2RZ98CTZGCEZ94AC, Dura\u00e7\u00e3o: 2 dias"
         }
     ]
 }
