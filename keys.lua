@@ -78,6 +78,12 @@
             "user": "244hzkj",
             "timestamp": "2025-06-15 18:12:24",
             "details": "Chave: SUPA-D71IUFBLG0TGNX823UE3XU3V7QLMXF, Dura\u00e7\u00e3o: 2 dias"
+        },
+        {
+            "action": "SINCRONIZADO_GITHUB",
+            "user": "244hzkj",
+            "timestamp": "2025-06-15 18:16:21",
+            "details": "Sincroniza\u00e7\u00e3o manual"
         }
     ]
 }
