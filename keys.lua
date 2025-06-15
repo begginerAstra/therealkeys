@@ -106,6 +106,12 @@
             "user": "244hzkj",
             "timestamp": "2025-06-15 18:16:56",
             "details": "Chave: SUPA-GP4P1GZ5OE66WJ2RZ98CTZGCEZ94AC, Dura\u00e7\u00e3o: 2 dias"
+        },
+        {
+            "action": "CHAVE_GERADA",
+            "user": "244hzkj",
+            "timestamp": "2025-06-15 18:17:28",
+            "details": "Chave: SUPA-O95RM15Z4V9Q4FT8L0FCCW73J7QID4, Dura\u00e7\u00e3o: 2 dias"
         }
     ]
 }
