@@ -15,6 +15,14 @@
             "used": false,
             "used_by": null,
             "used_at": null
+        },
+        {
+            "key": "SUPA-3LKZJJDYNLDA5ZEWEC1BC5PZW8D78I",
+            "created_at": "2025-06-15 15:23:53",
+            "expires_at": "2025-06-17 15:23:53",
+            "used": false,
+            "used_by": null,
+            "used_at": null
         }
     ],
     "premium_users": [],
