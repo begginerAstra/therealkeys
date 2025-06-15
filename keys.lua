@@ -158,6 +158,12 @@
             "user": "244hzkj",
             "timestamp": "2025-06-15 18:43:37",
             "details": "Chave: SUPA-BYEH8HZTGHMLEOBXCCXCK5CEWHSHIW, Dura\u00e7\u00e3o: 1 dias"
+        },
+        {
+            "action": "CHAVE_VALIDADA",
+            "user": "244hzkj",
+            "timestamp": "2025-06-15 18:53:14",
+            "details": "Chave: SUPA-UO62SKBBU6WJDKQ0TL945O5ZDOVYE5, HWID: F0035032532-12521512512-125152BS"
         }
     ]
 }
