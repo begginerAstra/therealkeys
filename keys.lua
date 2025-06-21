@@ -173,6 +173,12 @@
             "user": "244hzkj",
             "timestamp": "2025-06-15 18:53:14",
             "details": "Chave: SUPA-UO62SKBBU6WJDKQ0TL945O5ZDOVYE5, HWID: F0035032532-12521512512-125152BS"
+        },
+        {
+            "action": "CHAVE_GERADA",
+            "user": "244hzkj",
+            "timestamp": "2025-06-21 22:22:29",
+            "details": "Chave: SUPA-OQFIC7CS60FWV8MTZPGU8BGXYMTP8W, Dura\u00e7\u00e3o: 1 dias"
         }
     ]
 }
