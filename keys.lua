@@ -6,7 +6,7 @@ return {
     },
     {
         Identificador = "Matheus",
-        Hwid = "offC354810B-A7AB-44AA-9AFF-169183A59230",
+        Hwid = "C354810B-A7AB-44AA-9AFF-169183A59230",
         Key = "SUPA-93215928125215251"
     },
     {
@@ -38,39 +38,5 @@ return {
         Identificador = "(vacant)",
         Hwid = "(vacant)",
         Key = "(vacant)"
-    },
-    {
-        Identificador = "(vacant)",
-        Hwid = "(vacant)",
-        Key = "(vacant)"
-    },
-    {
-        Identificador = "(vacant)",
-        Hwid = "(vacant)",
-        Key = "(vacant)"
-    },
-    {
-        Identificador = "(vacant)",
-        Hwid = "(vacant)",
-        Key = "(vacant)"
-    },
-    {
-        Identificador = "(vacant)",
-        Hwid = "(vacant)",
-        Key = "(vacant)"
-    },
-    {
-        Identificador = "(vacant)",
-        Hwid = "(vacant)",
-        Key = "(vacant)"
-    },
-    {
-        Identificador = "(vacant)",
-        Hwid = "(vacant)",
-        Key = "(vacant)"
-    },
-    {
-        Identificador = "(vacant)",
-        Hwid = "(vacant)",
-        Key = "(vacant)"
     }
+}
