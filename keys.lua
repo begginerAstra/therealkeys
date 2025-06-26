@@ -30,9 +30,9 @@ return {
         Key = "SUPA-942mFso0sncWS1s42s"
     },
     {
-        Identificador = "(vacant)",
-        Hwid = "(vacant)",
-        Key = "(vacant)"
+        Identificador = "Ravka",
+        Hwid = "C691E01E-0EFC-46E6-AF1A-1E43F497A899",
+        Key = "SUPA-02MSfosPE2SFcS12Sfsc23Ms02142msS"
     },
     {
         Identificador = "(vacant)",
