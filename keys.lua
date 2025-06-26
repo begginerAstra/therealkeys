@@ -6,7 +6,7 @@ return {
     },
     {
         Identificador = "Matheus",
-        Hwid = "C354810B-A7AB-44AA-9AFF-169183A59230",
+        Hwid = "offC354810B-A7AB-44AA-9AFF-169183A59230",
         Key = "SUPA-93215928125215251"
     },
     {
@@ -31,7 +31,7 @@ return {
     },
     {
         Identificador = "Ravka",
-        Hwid = "C691E01E-0EFC-46E6-AF1A-1E43F497A899",
+        Hwid = "OffC691E01E-0EFC-46E6-AF1A-1E43F497A899",
         Key = "SUPA-02MSfosPE2SFcS12Sfsc23Ms02142msS"
     },
     {
