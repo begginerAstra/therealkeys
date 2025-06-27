@@ -31,7 +31,7 @@ return {
     },
     {
         Identificador = "Ravka",
-        Hwid = "C691E01E-0EFC-46E6-AF1A-1E43F497A899",
+        Hwid = "offC691E01E-0EFC-46E6-AF1A-1E43F497A899",
         Key = "SUPA-02MSfosPE2SFcS12Sfsc23Ms02142msS"
     },
     {
