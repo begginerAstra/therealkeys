@@ -1,7 +1,7 @@
 return {
     {
         Identificador = "Astra",
-        Hwid = "FBF70412-A7C7-4A93-9FB9-CB6E2913D167",
+        Hwid = "804B33AD-81A2-4251-A188-7C7E14923A27",
         Key = "SpecialKey-01"
     },
     {
