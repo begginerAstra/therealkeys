@@ -35,8 +35,9 @@ return {
         Key = "SUPA-02MSfosPE2SFcS12Sfsc23Ms02142msS"
     },
     {
-        Identificador = "(vacant)",
-        Hwid = "(vacant)",
-        Key = "(vacant)"
+        Identificador = "Pudim",
+        Hwid = "E4D63C1B-F5EF-4043-8222-1CEC6CC98339",
+        Key = "ASTRA-9X2L-74KD-PQ8M-ZR51
+"
     }
 }
