@@ -26,7 +26,7 @@ return {
     },
     {
         Identificador = "Pudim",
-        Hwid = "E4D63C1B-F5EF-4043-8222-1CEC6CC98339",
+        Hwid = "offE4D63C1B-F5EF-4043-8222-1CEC6CC98339",
         Key = "ASTRA-9X2L-74KD-PQ8M-ZR51"
     },
     {
