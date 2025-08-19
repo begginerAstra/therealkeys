@@ -25,9 +25,9 @@
         Key = "SUPA-FS0mNS8524sfnS01423sC25412"
     },
     {
-        Identificador = "gsrou (Perma key)",
-        Hwid = "B1A9C92B-C5D8-4E21-A65D-73B875749CB6",
-        Key = "SUPA-942mFso0sncWS1s42s"
+        Identificador = "Pudim",
+        Hwid = "E4D63C1B-F5EF-4043-8222-1CEC6CC98339",
+        Key = "ASTRA-9X2L-74KD-PQ8M-ZR51"
     },
     {
         Identificador = "Ravka",
