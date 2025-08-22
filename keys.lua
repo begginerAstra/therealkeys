@@ -30,8 +30,8 @@ return {
         Key = "ASTRA-9X2L-74KD-PQ8M-ZR51"
     },
     {
-        Identificador = "Ravka",
-        Hwid = "offC691E01E-0EFC-46E6-AF1A-1E43F497A899",
-        Key = "SUPA-02MSfosPE2SFcS12Sfsc23Ms02142msS"
+        Identificador = "sMARTIN",
+        Hwid = "88B948E1-4244-447C-96C7-8ED318B00B85",
+        Key = "ASTRA-42XA-M012-DA12-ZR51"
     }
 }
