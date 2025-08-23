@@ -31,7 +31,7 @@ return {
     },
     {
         Identificador = "sMARTIN",
-        Hwid = "88B948E1-4244-447C-96C7-8ED318B00B85",
+        Hwid = "off88B948E1-4244-447C-96C7-8ED318B00B85",
         Key = "ASTRA-42XA-M012-DA12-ZR51"
     }
 }
