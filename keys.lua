@@ -6,9 +6,9 @@ return {
         Expires = "2025-08-25T23:05:29.756903"
     },
     {
-        Identificador = "Astra",
+        Identificador = "Oi",
         Hwid = "Empty",
-        Key = "Astra_6F7D4634-9036-4263",
-        Expires = "2025-08-26T23:27:14.158470"
+        Key = "Oi_3821061A-6E0C-4FA6",
+        Expires = "2025-08-25T23:27:39.412536"
     },
 }
