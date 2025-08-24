@@ -8,7 +8,7 @@ return {
     {
         Identificador = "Astra",
         Hwid = "Empty",
-        Key = "Astra_81E55CAE-19F1-40B0",
+        Key = "Astra_8E082B00-8828-4266",
         Expires = "2025-08-25T02:00:00"
     },
 }
