@@ -8,7 +8,7 @@ return {
     {
         Identificador = "Oi",
         Hwid = "Empty",
-        Key = "Oi_7FDF0951-418F-4EEE",
-        Expires = "2025-08-25T23:27:38.978750"
+        Key = "Oi_3416E6A8-5CA7-4687",
+        Expires = "2025-08-25T23:27:39.237582"
     },
 }
