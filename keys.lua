@@ -8,7 +8,7 @@ return {
     {
         Identificador = "AF2",
         Hwid = "Empty",
-        Key = "AF2_0A631F65-3166-4665",
-        Expires = "2025-08-25T23:57:13.618692"
+        Key = "AF2_2201E5A5-3E41-48DC",
+        Expires = "2025-08-25T23:57:13.587639"
     },
 }
