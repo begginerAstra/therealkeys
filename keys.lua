@@ -8,7 +8,7 @@ return {
     {
         Identificador = "aa",
         Hwid = "Empty",
-        Key = "aa_9492CEE9-66B8-4876",
-        Expires = "2025-08-25T23:29:12.006889"
+        Key = "aa_BA9D028D-8A0A-4E8F",
+        Expires = "2025-08-25T23:29:11.626143"
     },
 }
