@@ -6,9 +6,9 @@ return {
         Expires = "2025-08-25T23:28:40.462452"
     },
     {
-        Identificador = "rs",
+        Identificador = "aa",
         Hwid = "Empty",
-        Key = "rs_8DC07C9E-3BB4-46D9",
-        Expires = "2025-08-25T23:28:40.158146"
+        Key = "aa_9492CEE9-66B8-4876",
+        Expires = "2025-08-25T23:29:12.006889"
     },
 }
