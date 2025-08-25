@@ -40,5 +40,11 @@ return {
             Hwid = "Empty",
             Key = "ANQDI1F1RZ88JPS7-ASTRA",
             Expira = "25/08/2025 11:54"
+        },
+    {
+            Identificador = "Astr",
+            Hwid = "Empty",
+            Key = "RCAVRNSHIU3B8D4R-ASTR",
+            Expira = "25/08/2025 11:54"
         }
 }
