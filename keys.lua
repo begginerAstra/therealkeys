@@ -16,5 +16,11 @@ return {
         Hwid = "Empty",
         Key = "SHELBY-5AWD-P0XI-XVGT-BKXT-Y34G",
         Expira = "21/05/2028 03:20"
+    },
+    {
+        Identificador = "shelby",
+        Hwid = "Empty",
+        Key = "SHELBY-PH8P-KTOO-KSVY-Q88G-8HWD",
+        Expira = "10/06/2299 03:23"
     }
 }
