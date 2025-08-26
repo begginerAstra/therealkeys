@@ -14,5 +14,11 @@ return {
             Hwid = "Empty",
             Key = "SHELCHEETOS-5WSC-6815-Z5FA-SLNE-L7TE",
             Expira = 1756306873
+        },
+    {
+            Identificador = "Oi",
+            Hwid = "Empty",
+            Key = "OI-HQEN-3EZB-ES86-4MD6-E5T2",
+            Expira = 1756306890
         }
 }
