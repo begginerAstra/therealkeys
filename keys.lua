@@ -18,5 +18,11 @@ return {
             Hwid = "Empty",
             Key = "OI-HQEN-3EZB-ES86-4MD6-E5T2",
             Expira = 1756306890
+        },
+    {
+            Identificador = "5WAS",
+            Hwid = "Empty",
+            Key = "5WAS-L8RY-LA5N-CKVS-B26L-2DFG",
+            Expira = 1756307001
         }
 }
