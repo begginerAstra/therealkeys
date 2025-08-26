@@ -1,7 +1,5 @@
 return {
-    {
-            Identificador = "Shelby",
-            Hwid = "Empty",
+    YCADDDF-2B13-42DA-9867-F259F8566933",
             Key = "SHELBY-F03M-OV22-4XU1-A3JK-PKRG",
             Expira = 1756307368
         },
