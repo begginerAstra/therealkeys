@@ -8,5 +8,11 @@ return {
             Hwid = "Empty",
             Key = "ASTRA-9F6G-KBBB-Y14H-7IVH-FLSK",
             Expira = 1756306807
+        },
+    {
+            Identificador = "Shelcheetos",
+            Hwid = "Empty",
+            Key = "SHELCHEETOS-5WSC-6815-Z5FA-SLNE-L7TE",
+            Expira = 1756306873
         }
 }
