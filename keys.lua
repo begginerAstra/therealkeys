@@ -16,5 +16,11 @@ return {
             Hwid = "B8576E3F-1BA0-451F-AD02-93DC41B29743",
             Key = "ASTRA-BXAR-B0PC-94D3-8A7X-ZTM1",
             Expira = 1756293183
+        },
+    {
+            Identificador = "XL",
+            Hwid = "Empty",
+            Key = "XL-AMY5-O6DN-PTHY-8OMO-1FUZ",
+            Expira = 1756305439
         }
 }
