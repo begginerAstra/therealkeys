@@ -10,5 +10,11 @@ return {
         Hwid = "B8576E3F-1BA0-451F-AD02-93DC41B29743",
         Key = "ACTUALLY-P5OJ-X2XV-WFXR-MEIS-SNS4",
         Expira = "28/08/2025 00:00"
-    }
+    },
+    {
+            Identificador = "Astra",
+            Hwid = "Empty",
+            Key = "ASTRA-BXAR-B0PC-94D3-8A7X-ZTM1",
+            Expira = 1756293183
+        }
 }
