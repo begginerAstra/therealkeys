@@ -9,6 +9,5 @@ return {
             Identificador = "Actually",
             Hwid = "B8576E3F-1BA0-451F-AD02-93DC41B29743",
             Key = "ACTUALLY-P5OJ-X2XV-WFXR-MEIS-SNS4",
-            Expira = "02/09/2025 01:28"
         }
 }
