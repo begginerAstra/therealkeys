@@ -1,7 +1,5 @@
 return {
-    {
-        Identificador = "Astra",
-        Hwid = "Empty",
+    YCADDDF-2B13-42DA-9867-F259F8566933",
         Key = "ASTRA-KZZN-OHIZ-9HIT-5249-NC8V",
         Expira = 1756351924
     }
