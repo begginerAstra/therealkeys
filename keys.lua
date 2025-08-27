@@ -1,7 +1,5 @@
 return {,
-    {
-        Identificador = "Astra",
-        Hwid = "Empty",
+    YCADDDF-2B13-42DA-9867-F259F8566933",
         Key = "ASTRA-VC3E-OW56-MOHS-TAQF-EXPH",
         Expira = 1756354215
     }
