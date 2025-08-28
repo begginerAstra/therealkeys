@@ -7,7 +7,7 @@ return {
   },
   {
     Identificador = "Astra",
-    Hwid = "Empty",
+    Hwid = "B8576E3F-1BA0-451F-AD02-93DC41B29743",
     Key = "SUPA-I266VJZVXR-QCHZPDUSJ3-NC7GGQ0GD4",
     Expira = 1756509310,
   },
