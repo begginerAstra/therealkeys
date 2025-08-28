@@ -1,6 +1,2 @@
-return {,
-    YCADDDF-2B13-42DA-9867-F259F8566933",
-        Key = "ASTRA-9MNJ-XZ2Z-VSP6-8XA1-I12S",
-        Expira = 1756355119
-    }
+return {
 }
