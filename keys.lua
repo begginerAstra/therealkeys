@@ -13,7 +13,7 @@ return {
   },
   {
     Identificador = "shelby",
-    Hwid = "Empty",
+    Hwid = "31CADDDF-2B13-42DA-9867-F259F8566933",
     Key = "SUPA-BXDJA15042-G7KQTA2KVT-ABM3NTDATY",
     Expira = 1756558826,
   },
