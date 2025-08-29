@@ -11,4 +11,10 @@ return {
     Key = "SUPA-BXDJA15042-G7KQTA2KVT-ABM3NTDATY",
     Expira = 1756558826,
   },
+  {
+    Identificador = "Pingo",
+    Hwid = "Empty",
+    Key = "SUPA-KGUZV2XJLT-WFQAMK8ID6-XAR1KMFBGB",
+    Expira = 1765112719,
+  },
 }
