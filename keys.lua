@@ -5,10 +5,4 @@ return {
     Key = "SUPA-MY9SV43568-WJQXK0YY62-2XXFK8CKKB",
     Expira = 88156386914,
   },
-  {
-    Identificador = "Drigo",
-    Hwid = "Empty",
-    Key = "SUPA-9HTZUYS4QN-7MKPCZOPYB-XAEWJYPRYK",
-    Expira = 88156387233,
-  },
 }
